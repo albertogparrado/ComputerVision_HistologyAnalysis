@@ -6,7 +6,13 @@ This project performs an analysis of histological images using computer vision t
 
 Two histological images are processed and compared:
 - histo_1.jpg — expected to represent healthy tissue
+![histo_1](https://github.com/user-attachments/assets/ffcabb4b-1bea-46a1-bcef-d711f8f370b5)
+
+
 - histo_2.jpg — expected to represent cancerous tissue
+![histo_2](https://github.com/user-attachments/assets/deaf2443-5df3-4be6-9532-04349e763823)
+
+
 
 The process involves:
 - Converting images to CMYK color space
